@@ -8,6 +8,7 @@ The things you do need:
 - Twitch ClientID and Access Token. You can get those from [Twitch Token Generator](https://twitchtokengenerator.com/)
 
 Replace Youtube API key in PlaylistManager.cs, and replace Twitch credentials in Twitch.cs
+You can give twitch users access by adding the channel name to the Supers array on top of Twitch.cs
 
 Twitch Commands:
 - !addvid <youtubeID> - Adds the video data to a .sav for a local playlist ( Youtube ID only, eg: /watch?v={VIDEO_ID} )

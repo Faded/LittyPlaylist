@@ -30,7 +30,7 @@ public class GameManager : MonoBehaviour
         {
             playlistToggle.onClick.AddListener(TogglePlaylist);
             // We enqueue everything twitch related on the main thread, because of the websocket
-            //twitch.AuthenticateWithTwitch();
+            twitch.AuthenticateWithTwitch();
         });
     }
 

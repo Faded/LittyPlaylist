@@ -8,3 +8,5 @@ The things you do need:
 - Twitch ClientID and Access Token. You can get those from [Twitch Token Generator](https://twitchtokengenerator.com/)
 
 Replace Youtube API key in PlaylistManager.cs, and replace Twitch credentials in Twitch.cs
+
+Support/Questions - https://www.littygames.net
